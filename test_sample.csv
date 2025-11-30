@@ -1,0 +1,4 @@
+Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,Gender,JobRole
+25,Yes,Travel_Rarely,800,Sales,5,3,Life Sciences,Male,Sales Executive
+30,No,Travel_Frequently,1100,Research & Development,10,2,Medical,Female,Research Scientist
+45,No,Non-Travel,500,HR,3,4,Other,Female,HR Manager
